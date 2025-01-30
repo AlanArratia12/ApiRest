@@ -12,3 +12,6 @@ El término RESTful se refiere a las APIs que implementan los principios y restr
 -Utiliza métodos HTTP estándar (como GET para leer datos o DELETE para eliminarlos).
 -Representa recursos a través de URLs únicas y significativas.
 -Retorna representaciones de recursos en formatos estándar, como JSON o XML. 
+ 
+
+ ASHJ CIASC MNM
