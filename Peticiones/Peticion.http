@@ -1,0 +1,26 @@
+### Obtener una lista de posts
+GET https://jsonplaceholder.typicode.com/posts
+Accept: application/json
+
+### Crear un nuevo post
+POST https://jsonplaceholder.typicode.com/posts
+Content-Type: application/json
+
+{
+    "title": "Mi nuevo post",
+    "body": "Este es el contenido del post.",
+    "userId": 1
+}
+
+### Actualizar un post existente
+PUT https://jsonplaceholder.typicode.com/posts/1
+Content-Type: application/json
+
+{
+    "title": "Título actualizado",
+    "body": "Contenido actualizado.",
+    "userId": 1
+}
+
+### Eliminar un post
+DELETE https://jsonplaceholder.typicode.com/posts/1

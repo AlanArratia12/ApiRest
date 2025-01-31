@@ -1,0 +1,21 @@
+{
+  "name": "parcial-1",
+  "version": "1.0.0",
+  "main": "server1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlanArratia12/ApiRest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlanArratia12/ApiRest/issues"
+  },
+  "homepage": "https://github.com/AlanArratia12/ApiRest#readme",
+  "description": ""
+}
